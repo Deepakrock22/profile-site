@@ -600,7 +600,7 @@ function Home() {
               </p>
               <div className="flex justify-center mt-4 space-x-2 sm:space-x-4 md:space-x-4">
                 <a
-                  href="https://github.com/Kevin-Kwan"
+                  href="https://github.com/Deepakrock22"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white transition-transform ease-in-out duration-200 hover:scale-115 sm:hover:scale-130 md:hover:scale-150 hover:text-blue-500"
