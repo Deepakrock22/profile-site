@@ -74,7 +74,7 @@ function Contact({ serviceId, templateId, publicKey }: ContactProps) {
                 {process.env.NEXT_PUBLIC_CONTACT_EMAIL}
               </a>
             ) : (
-              '(Fetching email address...)'
+              '(deepakdharshan22@yahoo.com)'
             )}
             <a>.</a>
             <br />
