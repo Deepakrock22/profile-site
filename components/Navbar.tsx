@@ -55,7 +55,7 @@ function Navbar({ fixed = true, isMenuOpen, toggleMenu }: NavbarProps) {
         <Link legacyBehavior href="/">
           <a className="flex items-center justify-center">
             <Image
-              src="/logo.png"
+              src="logo.png"
               alt="Logo"
               width={40}
               height={40}
